@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/c51da36c-6e47-42b8-957e-298a067ccd89)# To-Do-List-app
+# To-Do-List-app
 
 
 "Introducing my to-do list app! This app helps you efficiently organize your tasks, ensuring you never write the same task twice or create a task without a name. With the ability to add an unlimited number of tasks, you can manage your workload effortlessly. Plus, you can delete any task at any time, giving you full control over your to-do list. Stay organized and boost your productivity!"
